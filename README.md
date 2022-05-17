@@ -1,25 +1,26 @@
-# Nekleus Initial Contract
+# Orbit Initial Contract
 
 ## Overview
 
-Nukleus is a decentralized trading and liquidity mining platform on the Hedera hashgraph. Its network of on-chain automated market makers (AMMs) supports instant token-to-token trades, as well as single-sided liquidity provision. With the solution of IL protection adapted from Bancor protocol, all liquidity providers will have 100% impermanent loss protections in all asset types listed.
+Orbit is a decentralized exchange platform on the Hedera hashgraph. Its network of on-chain automated market makers (AMMs) supports instant token-to-token trades, as well as single-sided liquidity provision. With the solution of IL protection adapted from Bancor protocol, all liquidity providers will have upto 100% impermanent loss protections in all asset types listed.
 
 ## Features
 - Single assets trading (no traditional LP paired tokens in any pools for trading, instead we use "Orbital Pool".)
 - IL protection Mechanism
 - Single-sided Liquidity Provision 
-- No limits for staking 
+- No deposit limitation
 - Sustainable Reward (fees)
-- Rewarded Token Type = Staked Token Type
+- Rewarded Token = Deposited Token
 - Auto-compounding yields
 - Third Party IL Protection
 - Composable Pool Tokens
-- Tokenomics(Coming Soon)
 - Flash Loans Service
+- Tokenomics(Coming Soon)
+
 
 ## Security Warning
 
-The repository is incompleted and is a part of the Nukleus platform on the Hedera Hashgraph. Code testing and auditing will be committed. The upcoming version is expected to replace the current one without notice. Please make sure to understand the risks before using it.
+The repository is incompleted and is a part of the Orbit platform on the Hedera Hashgraph. Code testing and auditing will be committed. The upcoming version is expected to replace the current one without notice. Please make sure to understand the risks before using it.
 
 
 ## Setup
@@ -44,5 +45,5 @@ yarn deploy
 
 ## Code Efficiency
 
-The code was orginally written for the Ethereum blockchain and was committed for Hedera hashgraph. The team decide to fully operate the protocol on Hedera Hashgraph wich means the next version and so on will be designed specifically for it. 
+The code was orginally written for the Ethereum blockchain and was committed for Hedera hashgraph. The team decide to fully operate the protocol on Hedera Hashgraph which means the next version and so on will be designed specifically for it. 
 
