@@ -1,4 +1,4 @@
-# Bancor Protocol Contracts v3.0 (Dawn Release)
+# Nekleus Initial Contract
 
 ## Overview
 
